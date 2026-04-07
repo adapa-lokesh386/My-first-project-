@@ -1,1 +1,1 @@
-quantum computing project in c
+calculator app project in c
